@@ -1,0 +1,17 @@
+%%straightflags false
+%%flatbeams true
+%%titleformat T0, R-1 C1
+%%graceslurs false
+%%footer "          $d"
+X:1
+T:A. A. Cameron
+R:Strathspey
+Z:Transcribed 27 April, 2015 by Stephen Beitzel
+C:Trad.
+M:C
+L:1/8
+K:D
+[|: {gef}e>A {gAGAG}A2 {gBd}B<{e}G {dc}d>B | {gef}e>A {gAGAG}A2 {gBd}Bg {a}(3(fed) |
+{gef}e>A {gAGAG}A2 {gBd}B<{e}G {dc}d>B | {gf}g>B {g}G>B {Gdc}d>g {a}(3(fed) :|]
+[|: {g}c<e {A}e>f {gf}g>e {ag}a2 | c<e {A}e>f {gf}ge {g}(3(fed) |
+{g}c<e {A}e>f {gf}g>e {ag}a2 | {f}g>B {g}G>B {Gdc}d>g {a}(3(fed) :|]

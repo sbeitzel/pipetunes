@@ -1,0 +1,19 @@
+%%straightflags false
+%%flatbeams true
+%%titleformat T0, R-1 C1
+%%graceslurs false
+%%footer "          $d"
+X:2
+T:Mo Ghile Mear
+N:Irish tune
+Z:Transcribed 1 July, 2010 by Stephen Beitzel
+C:Trad. (Arranged by Jay Salter)
+M:4/4
+L:1/8
+K:D
+[| {g}A3{d}A {e}A2 B2 | {g}d2 e2 {gfg}f4 | {gf}g2 fe {gfg}f3 e | {gde}d2 B2 {G}A4 |
+| {Gdc}d3c {gBd}B2 {G}A2 | {g}d2 e2 {g}f2 {gf}g2 | {ag}a4 {GdG}a2 f2 | {gef}e3 d{g}d4 :|]
+e | {g}f2 a2{g}a3 f | {gef}e2 d2 {g}d3 e | {g}f2a2{g}a3f | {g}ef/e/ d2 {gef}+trill(+e2 e2+trill)+ |
+| {g}f2 a2 {g}a3 f | {gef}e2 d2 {g}d2 {g}ef | {gf}g2 fe {gfg}f3 e | {gde}d2 B2 {G}A4 |
+| {g}A3{d}A {e}A2 B2 | {g}d2 e2 {gfg}f4 | {gf}g2 fe {gfg}f3 e | {gde}d2 B2 {G}A4 |
+| {Gdc}d3c {gBd}B2 {G}A2 | {g}d2 e2 {g}f2 {gf}g2 | {ag}a4 {GdG}a2 f2 | {gef}e3 d{g}d4 |]

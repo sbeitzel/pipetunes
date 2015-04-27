@@ -1,0 +1,28 @@
+%%straightflags false
+%%flatbeams true
+X:1
+T:In and Out the Harbour
+C:Traditional
+R:Reel
+M:C
+L:1/4
+K:HP
+Z:Stephen Beitzel
+[|: {g}e/g/{a}f/d/ {g}e/A/ {gAGAG}A | {g}e/d/{g}B/d/ {g}e/A/ {gAGAG}A |
+{g}e/g/{a}f/d/ {g}e/A/ {gAGAG}A | {g}B/{d}G/{g}d/c/ {g}B/{d}G/{g}B/d :|]
+[|: {g}e/a/{g}a/f/ {a}g/a/f/g/ | {a}e/A/ {gAGAG}A {g}e/A/{g}B/d/ |
+| {g}e/a/{g}a/f/ {a}g/e/{gcd}c/e/ |1 a/f/{a}g/e/ {Gdc}d {g}c/d/ :|]
+|2 a/f/{a}g/e/ {g}d/g/{a}f/g/ |]
+
+X:2
+T:Drowsy Maggie
+C:Traditional, Arr. Moore
+R:Reel
+M:C
+L:1/4
+K:HP
+Z:Stephen Beitzel
+[| {g}e A/a/ e/d/{g}B/d/ | {g}e/f/{a}g/e/ {g}d/G/{g}B/d/ |
+| {g}e A/a/ e/d/{g}B/d/ | {g}e/f/{a}g/e/ {g}d/G/{g}B/d/ :|]
+[| {g}e/A/{g}A/{GAG}A/ {g}e/A/{g}B/d/ | {g}e/A/{g}A/{GAG}A/ {g}B/G/{g}B/d/ |
+| {g}e/A/{g}A/{GAG}A/ {g}e/A/{g}B/d/ | {g}e/f/{a}g/e/ {g}d/G/{g}B/d/ :|]

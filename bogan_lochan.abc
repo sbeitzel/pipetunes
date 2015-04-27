@@ -1,0 +1,23 @@
+%%straightflags false
+%%flatbeams true
+%%titleformat T0, R-1 C1
+%%scale 0.6
+%%graceslurs false
+X:1
+T:Bogan Lochan
+M:C
+L:1/8
+R:Strathspey
+C:trad.
+K:D
+Z:Transcribed 11/22/13 by Stephen Beitzel
+{ag}a | A2 {GdGe}A>{d}B {g}A>{d}c {gef}e>c | {g}A2 {GdGe}A>{d}B {g}G>B {Gdc}d<{e}B | {g}A2 {GdGe}A>{d}B {g}A>{d}B {gef}e>d | {g}(3efg {Gdc}d<g {Bd}B<{e}G {dc}d<{e}B |
+{AGAG}A2 {g}A>{d}B {g}A>{d}c {gef}e>c | {AGAG}A2 {gcd}c<{e}A {gBd}B<{e}G {dc}d<{e}B | {g}A2 {GdGe}A>{d}B {g}A>{d}B {gef}e>d | {g}(3efg {Gdc}d<g {Bd}B<{e}G {dc}d<{e}B ||
+{gef}e>A {gef}e>d {gef}e>A {g}e<a | {ef}e>A {gef}e>d {gBd}B<{e}G {dc}d<{e}B | {gef}e>A {gef}e>d {gef}e>A {gef}e>d | {g}(3efg {Gdc}d<g {Bd}B<{e}G {dc}d<{e}B |
+{gef}e>A {gef}e>d {gef}e>A {g}e<a | {AGAG}A2 {gef}e>d {gBd}B<{e}G {dc}d<{e}B | {gef}e>A {gef}e>B {Gdc}d>e {g}(3fga | (3gfe {g}(3fga {Bd}B<{e}G {dc}d<{e}c ||
+[|: {g}B2 {GdGe}B>{d}c {g}B>{d}c {gfg}f>e | {g}B2 {GdGe}B>{d}c {g}A>{d}c {gef}e>c | {g}B2 {GdGe}B>{d}c {g}B>{d}c {gfg}f>e | {g}(3fga {ef}e>a {cd}c<{e}A {gef}e>c :|]
+{gfg}f>B {gfg}f>e {gfg}f>B {g}f<a | {fg}f>B {gfg}f>e {gcd}c<{e}A {gef}e>c | {gfg}f>B {gfg}f>e {gfg}f>B {gfg}f>e | {g}(3fga {ef}e>a {cd}c<{e}A {gef}e>c |
+{gfg}f>B {gfg}f>e {gfg}f>B {g}f<a | {fg}f>B {gfg}f>e {gcd}c<{e}A {gef}e>c | {gfg}f>B {gfg}f>e {Gdc}d>e {g}(3fga | (3gfe {g}(3fga {Bd}B<{e}G {gBd}B<a |
+[|: {AGAG}A2 {gef}e>d {gef}e2 {AGAG}A<a | {AGAG}A2 {gef}e>d {gBd}B<{e}G {dc}d<{e}B | {AGAG}A2 {gef}e>d {gcd}c<{e}A {gef}e>d | {g}(3efg {Gdc}d<g {Bd}B<{e}G {dc}d<{e}B :|]
+{GdG}a2 {fg}f>e {gfg}f>{g}B {G}B>{d}c | {GdG}a2 {fg}f>e {gcd}c<{e}A {gef}e>c | {GdG}a2 {fg}f>e {gfg}f>B {gfg}f>e | {g}(3fga {ef}e>a {cd}c<{e}A {gef}e>c |
+{GdG}a2 {fg}f>e {gfg}f>{g}B {G}B>{d}c | {GdG}a2 {fg}f>e {gcd}c<{e}A {gef}e>c | {GdG}a2 {fg}f>e {Gdc}d>e {g}(3fga |(3gfe {g}(3fga {Bd}B<{e}G {gBd}B<a |]

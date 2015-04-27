@@ -1,0 +1,15 @@
+%%straightflags false
+%%flatbeams true
+X:1
+T:In and Out the Harbour
+C:Traditional
+R:Reel
+M:C
+L:1/4
+K:HP
+[|: {g}e/g/{a}f/d/ {g}e/A/ {gAGAG}A | {g}e/d/{g}B/d/ {g}e/A/ {gAGAG}A |
+{g}e/g/{a}f/d/ {g}e/A/ {gAGAG}A | {g}B/{d}G/{g}d/c/ {g}B/{d}G/{g}B/d :|]
+||{g}e/a/{g}a/f/ {a}g/a/f/g/ | {a}e/A/ {gAGAG}A {g}e/A/{g}B/d/ |
+{g}e/a/{g}a/f/ {a}g/e/{gcd}c/e/ | a/f/{a}g/e/ {Gdc}d {g}c/d/ |
+{g}e/a/{g}a/f/ {a}g/a/f/g/ | {a}e/A/ {gAGAG}A {g}e/A/{g}B/d/ |
+{g}e/a/{g}a/f/ {a}g/e/{gcd}c/e/ | a/f/{a}g/e/ {g}d/g/{a}f/g/ ||

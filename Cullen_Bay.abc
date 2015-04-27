@@ -1,0 +1,14 @@
+%%straightflags false
+%%flatbeams true
+X:1
+T:Cullen Bay
+C:I. Duncan
+R:March
+M:5/4
+L:1/8
+K:HP
+Z:Stephen Beitzel, 7 October 2011
+[|: {g}A>B {gcd}c{G}A {g}B{d}c/B/ {G}A4 | {g}c>d {gef}ec {Gdc}de/f/ {gef}e4 | {g}fa {ef}ec {Gdc}d{g}e/>d/ {gcd}c4 | {g}A>B {gcd}c{G}A {g}B{d}c/B/ {G}A4 :|]
+[|: {ag}ae {gef}e{g}c/e/ {gfg}fe/c/ {gef}e4 | {ag}ae {gef}e{g}c/e/ {gfg}fe/c/ {gBd}B4 | {ag}ae {gef}e{g}c/e/ {gfg}fe/c/ {gef}e4 | {g}A>B {gcd}c{G}A {g}B{d}c/B/ {G}A4 :|]
+[|: {gcd}c{e}A {GAG}AB/c/ {Gdc}dc/B/ {gcd}c4 | {gef}ec {G}cd/e/ {Gdc}de/f/ {gef}e4 | {g}fa {ef}ec {Gdc}d{g}e/>d/ {gcd}c4 | {g}A>B {gcd}c{G}A {g}B{d}c/B/ {G}A4 :|]
+[|: {gef}e{g}c/e/ {ag}ae {gfg}fe/c/ {gef}e4 | {gcd}c{e}A {GAG}AB/c/ {gef}ed/c/ {gBd}B4 | {gef}e{g}c/e/ {g}fa f/e/{g}d/f/ {gef}e4 | {g}A>B {gcd}c{G}A {g}B{d}c/B/ {G}A4 :|]

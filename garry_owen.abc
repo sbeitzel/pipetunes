@@ -1,0 +1,27 @@
+%%straightflags false
+%%flatbeams true
+%%titleformat T0, R-1 C1
+%%graceslurs false
+%%footer "          $d"
+X:1
+T:Garry Owen
+Z:Transcribed 14 April, 2015 by Stephen Beitzel
+C:Trad.
+M:6/8
+L:1/8
+K:D
+[|: a/2<g/2 | {a}f>ed {gcd}c>{g}B{d}A | {g}c2 {GdGe}c {gcd}c>ag | {g}f>ed {gcd}c>{g}B{d}A | {g}B2 {GdGe}B {gBd}B>ag |
+{a}f>ed {gcd}c>{g}B{d}A | {g}c2 {GdGe}c {gcd}c2 e | {g}e>fg {ag}a>e{g}c | {g}B2 {GdBe}B {gBd}B3 :|]
+[|: {g}c/2<d/2 | {gef}e2 c {gef}e2 c | {gef}e2 c {gef}e>ag | {gfg}f2 d {gfg}f2 d | {gfg}f2 d {gfg}f2 g |
+{ag}a2 e{g}f2 g | {ag}a>gf {gef}e2 c | {g}e>fg {ag}a>e{g}c | {g}B2 {GdGe}B {gBd}B2 :|]
+X:2
+T:Garry Owen
+Z:Transcribed 15 April, 2015 by Stephen Beitzel
+C:Trad. (Arr. Jay Salter)
+M:6/8
+L:1/8
+K:D
+[|: a/2<g/2 | {a}f>ed {gcd}c>{g}B{d}A | {g}c2 {GdGe}c {gcd}c>ag | {g}f>ed {gcd}c>{g}B{d}A | {g}B2 {GdGe}B {gBd}B>ag |
+{a}f>ed {gcd}c>{g}B{d}A | {g}c2 {GdGe}c {gcd}c2 e | {g}e>fg {ag}a>e{g}c | {g}B2 {GdBe}B {gBd}B3 :|]
+[|: {g}c/2<d/2 | {gef}e2 c {gef}e2 c | {gef}e2 c {gef}e>ag | {gfg}f2 d {gfg}f2 d | {gfg}f2 d {gfg}f2 g |
+{ag}a2 {GdG}a g2 {GdG}g | {a}f2 {GdG}f {g}e2 {GdG}e | {g}e>fg {ag}a>e{g}c | {g}B2 {GdGe}B {gBd}B3 :|]

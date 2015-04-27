@@ -1,0 +1,25 @@
+%%straightflags false
+%%flatbeams true
+%%titleformat T0, R-1 C1
+X:1
+T:Glen Lyon
+M:4/4
+L:1/8
+R:Reel
+C:Trad., as played by Seudan
+Q:100
+K:HP
+f | {g}A{d}AdG {g}A{d}A{e}Ag | {a}fA{gef}eA {gde}dB{g}G{d}B | {g}A{d}AdG {g}A{d}A{e}Ag {a} | fA{gef}eA d{g}d{c}d:|
+|: g | {a}fdgf {gef}ec{G}cg | {a}fdge {g}fdge | {g}fdgf {gef}ec{G}cg |1 af{g}ge d{g}d{c}d:|
+|2 af{a}ge {g}fd{gef}ec |
+
+X: 2
+T: Miss Girdle
+R: Reel
+Q: 1/4 = 160
+C: Traditional
+N: 
+M: 4/4
+L: 1/8
+K: HP
+|: {g}d{c}d {g}dB {g}c{d}A{g}B{d}G | {g}d{c}d {g}dB  {g}cd{g}ef | {g}d{c}d {g}dB {g}c{d}A{g}B{d}G | {a}gf{gef}ed {g}cd{g}ef :|| {g}d{c}d {g}fd ad{g}fd | {g}d{c}d {g}fd {g}cd{g}ef | {g}d{c}d  {g}fd ad{g}fd | {a}gf{gef}ed {g}cd{g}ef || {g}d{c}d {g}fd ad{g}fd | {g}d{c}d {g}fd {g}cd{g}ef | af{a}ge {g}fd{gef}ed | {a}gf{gef}ed {g}cd{g}ef ||

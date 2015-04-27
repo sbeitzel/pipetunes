@@ -1,0 +1,22 @@
+%%straightflags false
+%%flatbeams true
+%%scale 0.7
+%%titleformat T0, R-1 C1
+X:1
+T:The Blackberry Bush
+C:Parts 3 & 4 by D. Macleod, arranged by Seudan
+R:Reel
+M:C
+L:1/8
+K:HP
+Z:Jay Salter, Stephen Beitzel
+[| {g}de | {gfg}f2 {g}fe {g}dB{G}BA | {g}Bd{c}dA {g}B{d}A{e}A{d}B | {gfg}f2 {g}fe {g}dB{G}BA | {g}Be{A}ef {gef}e2 {g}de |
+| {gfg}f2 {g}fe {g}dB{G}BA | {g}Bd{c}dA {g}B{d}A{e}A{d}B | {g}d{c}d {g}ef {gef}ed{g}B{d}A | {g}Bd{c}de {gde}d2 :|]
+[| {g}de | {g}fa{g}af {gef}e2 {g}de | {g}fd{g}ed {g}B{d}A{e}A{d}B | {g}d{c}d {g}ef {gef}ed{g}B{d}A | {g}Be{A}ef {gef}e2 {g}de |
+| {g}fa{g}af {gef}e2 {g}de | {g}fd{g}ed {g}B{d}A{e}A{d}B | {g}d{c}d {g}ef {gef}ed{g}B{d}A | {g}Bd{c}de {gde}d2 :|]
+[| {g}dB | {gAGAG}A3{d}B {g}AB{g}de | {g}fd{g}ed {g}B{d}A{e}A{d}B | {g}A{d}A{e}A{d}B {g}AB{g}dA | {g}Be{A}ef {g}fe{g}dB |
+| {g}A2 {g}A{d}B {g}AB{g}de | {g}fd{g}ed {g}B{d}A{e}A{d}B | {g}d{c}d {g}ef {gef}ed{g}B{d}A | {g}Bd{c}de {gde}d2 :|]
+| {g}de | {gfg}f2 {g}fe {g}fa{g}af | {gef}e2 {g}fd {g}B{d}A{e}A{d}B | {g}fe{g}fa {g}af{g}ed | {g}Be{A}ef {gef}e2 {g}de |
+| {gfg}f2 {g}fe {g}fa{g}af | {gef}e2 {g}fd {g}B{d}A{e}A{d}B | {g}d{c}d {g}ef {gef}ed{g}B{d}A | {g}Bd{c}de {gde}d2 {g}de |
+| {gfg}f2 {g}fe {g}fa{g}af | {gef}e2 {g}fd {g}B{d}A{e}A{d}B | {g}fe{g}fa {g}af{g}ed | {g}Be{A}ef {g}fe{g}de |
+| {g}f2 {g}fa {ef}e2 {g}ef | {gde}d2 {g}de {gde}dB{g}A{d}B | {g}d{c}d {g}ef {gef}ed{g}B{d}A | {g}Bd{c}de {gde}d2 |
