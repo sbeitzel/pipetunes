@@ -1,0 +1,15 @@
+%%straightflags false
+%%flatbeams true
+X:1
+T:John MacColl's March to Kilbowie Cottage
+C:William Lawrie
+R:March
+M:2/4
+L:1/16
+K:D
+Z:Stephen Beitzel
+[|: {g}A>B | {GdG}c4 {gcd}c>B{g}A>{d}c | {gef}e4 {g}f>e{g}c<e | {g}A>B{g}c<f {gef}e>c{g}A>B | {g}c<f{gef}e>c {gBG}B2{g}A>B |
+{GdG}c4 {gcd}c>B{g}A>{d}c | {gef}e4 {g}f>e{g}c<e | {gfg}f>e{g}f>c {gef}e>A{g}B<{d}c | {g}A4 {GAG}A2 :|]
+[|: {gf}g2 | {ag}a3f {gef}e>c{g}B<{d}c | {g}A>{d}c{g}e>g {a}f>A{gef}e>c | a>f{g}e>f {g}A2{GdGe}A>B | {g}c<f{gef}e>c {gBG}B 1{gf}g |
+{ag}a3f {gef}e>c{g}B<{d}c | {g}A>{d}c{g}e>g {a}f>A{gef}e>c | {g}e<ac<e {gef}e>A{g}B<{d}c | {g}A4 {GAG}A2 :|]
+|2 {g}A>B | {GdG}c4 {gcd}c>B{g}A>{d}c | {gef}e4 {g}f>e{g}c<e | {gfg}f>e{g}f>c {gef}e>A{g}B<{d}c | {g}A4 {GAG}A2 ||

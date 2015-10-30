@@ -1,0 +1,15 @@
+%%straightflags false
+%%flatbeams true
+X:1
+T:The Eagle's Whistle
+C:Trad. (Arranged by Jay Salter)
+R:Retreat
+M:3/4
+L:1/8
+K:HP
+Z:Transcribed 21 February, 2013 by Stephen Beitzel
+[|: {gcd}c2 {gef}ec {gBd}B{G}A | {gcd}c2 {gef}ec {gBd}B{G}A | {g}B2 {GdGe}B{d}c {gBd}B{G}A | {g}B2 {g}(Bcd) {gcd}cB |
+| {gcd}c2 {gef}ec {gBd}B{G}A | {gcd}c2 {gef}ec {gBd}B{d}c | {g}A2 {GdGe}A{d}c {gBd}B{d}c | {g}A2 {GdGe}A{d}c {gBd}B{G}A :|]
+[|: {gfg}f2 {gef}ec {ag}ae | {gfg}f2 {gef}ec {gBd}B{G}A | {g}B2 {GdGe}B{d}c {gBd}B{G}A | {g}B2 {g}(Bcd) [1 {gcd}ce  [2 {gcd}cB |
+|1 {gfg}f2 {gef}ec {ag}ae | {gfg}f2 {gef}ec {gBd}B{d}c | {g}A2 {GdGe}A{d}c {gBd}B{d}c | {g}A2 {GdGe}A{d}c {gBd}B{G}A :|]
+|2 {gcd}c2 {gef}ec {gBd}B{G}A | {gcd}c2 {gef}ec {gBd}B{d}c | {g}A2 {GdGe}A{d}c {gBd}B{d}c | {g}A2 {GdGe}A{d}c {gBd}B{G}A :|]

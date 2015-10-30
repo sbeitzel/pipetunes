@@ -1,0 +1,15 @@
+%%straightflags false
+%%flatbeams true
+X:1
+T:Bloody Fields of Flanders
+C:Pipe Major J Maclellan, DCM
+R:Retreat
+M:3/4
+L:1/8
+K:HP
+Z:Stephen Beitzel
+[|: {gef}e>c {g}A2{GdGe}A>B | {gcd}ce {gfg}f2 {gef}e2 | {g}(3fga {ef}e2 {Gdc}de | {gcd}c{e}A {gcd}cd/>c/ {gBG}B2 |
+{gef}e>c {g}A2{GdGe}A>B | {gcd}ce {gfg}f2 {gef}e2 | {g}(3fga {ef}e2 {A}e/>f/{g}A/>B/ | {gcd}c>B {g}A2 {GAG}A2 :|]
+[|: {g}f>g {ag}a2 {g}ae | {gfg}fa {ef}e2 {gcd}c2 | {g}(3fga {ef}e2 {Gdc}de | {gcd}c{e}A {gcd}cd/>c/ {gBG}B2 |
+|1 {g}f>g {ag}a2 {g}ae | {gfg}fa {gef}e2 {gcd}c2 | {g}(3fga {ef}e2 {A}e/>f/{g}A/>B/ | {gcd}c>B {g}A2 {GAG}A2 :|]
+|2 {gef}e>c {g}A2 {GdGe}A>B | {gcd}ce {gfg}f2 {gef}e2 | {g}(3fga {ef}e2 {A}e/>f/{g}A/>B/ | {gcd}c>B {g}A2 {GAG}A2 |
