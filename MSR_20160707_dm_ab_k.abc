@@ -1,0 +1,47 @@
+%%straightflags false
+%%flatbeams true
+%%titleformat T0, R-1 C1
+%%graceslurs false
+%%footer "STPB					2016.07.07"
+X:1
+T:Duncan McInnes
+R:March
+Z:Transcribed 6 July, 2016 by Stephen Beitzel
+C:PM P.R. Macleod
+M:2/4
+L:1/8
+K:D
+[|: e | {g}A>B {GdG}c{Gdc}d | {g}e>f {gcd}c{e}A | {gcd}ce {g}A{d}c | {gef}e>d {gBd}B{e}G |
+| {g}A>B {GdG}c{Gdc}d | {g}e>f {gcd}ce | {Gdc}d{e}G {gef}e>d | {gBd}B{e}A {GAG}A :|]
+[|: B | {G}A>a {g}ae | {gf}g>a {f}ge | {gcd}c{e}A {gcd}c{gf}g | {ef}e>d {gBd}B{e}G |
+|1 {g}A>a {g}ae | {gf}g>a {f}ge | {Gdc}d{e}G {gef}e>d | {gBd}B{e}A {GAG}A :|]
+|2 {g}A>B {GdG}c{Gdc}d | {g}e>f {gcd}ce | {Gdc}d{e}G {gef}e>d | {gBd}B{e}A {GAG}A |]
+[|: {g}e/2>d/2 |{gde}d<c {g}A{d}c | {g}e>f {gcd}c{e}A | {gef}e2 {g}A{Gdc}d | {gcd}c2 {gBd}B{e}G |
+| {gde}d<c {g}A{d}c | {g}e>f {gcd}ce | {Gdc}d{e}G {gef}e>d | {gBd}B{e}A {GAG}A :|]
+[|: {g}c/2>d/2 | {gef}ec {ag}a>g | {fg}f>e {gcd}c{e}A | {gef}e2 {g}A{Gdc}d | {gcd}c2 {gBd}B{e}G |
+|1 {gef}ec {ag}a>g | {fg}f>e {gcd}ce | {Gdc}d{e}G {gef}e>d | {gBd}B{e}A {GAG}A :|]
+|2 {gde}d<c {g}A{d}c | {g}e>f {gcd}ce | {Gdc}d{e}G {gef}e>d | {gBd}B{e}A {GAG}A |]
+X:2
+T:Aspen Bank
+R:Strathspey
+C:T. Douglas
+Z:Transcribed 7 July, 2016 by Stephen Beitzel
+M:4/4
+L:1/8
+K:D
+%%scale 0.6
+[|: {Gdc}d2 {g}c>d {g}B<d {g}A>B | {Gdc}d2 {gfg}f>d {ag}a>d {gfg}f>e | {Gdc}d>e {g}f>d {g}B<d {g}A>d | {gef}e>d {g}(3(f/2e/2d) {g}c<e {A}e>f :|]
+[|: {ag}a2 f<a {Gdc}d>af<a | {f}g>e {gfg}f>d {gef}e>d {gfg}f>d |1 {ag}a2 f<a {Gdc}d>af<a | {f}g>e {g}(3(f/2e/2d) {g}c<e {A}e>f :|]
+|2 {g}B2 {GdGe}B>d {g}A>d {gfg}f>d | {g}f<a (3(g/2f/2e) {gfg}f>e {Gdc}d |]
+X:3
+T:Kalabakan (Borneo)
+R:Reel
+C:Angus MacDonald
+M:4/4
+L:1/8
+K:D
+Z:Transcribed 7 July, 2016 by Stephen Beitzel
+%%scale 0.6
+[|: A/2 | {Gdc}d2 {e}A>d {g}B<{d}A {g}B<d | {g}A<{d}A {g}B<d {g}f>e {A}e>f | {Gdc}d2 {e}A>d {g}B<{d}A {g}B<d | {g}A<{d}A {g}f>e {Gdc}d2 {g}d3/2 :|]
+f/2 | {ag}a2 f>a {g}a2 f<{ag}a | {g}A<{d}A {g}B<d {g}f>e {A}e>f | {ag}a2 f>a {g}a2 f<{ag}a | {g}A<{d}A {g}f>e {Gdc}d2 {g}d>f |
+{ag}a2 f>a {g}a2 f<{ag}a | {g}A<{d}A {g}B<d {g}f>e {A}e>f | {Gdc}d2 {e}A>d {g}B<{d}A {g}B<d | {g}A<{d}A {g}f>e {Gdc}d2 {g}d2 |
