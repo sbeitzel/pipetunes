@@ -1,0 +1,41 @@
+%%titleformat T0, R-1 C1
+%%footer "STPB					2016.09.14"
+%%straightflags false
+%%flatbeams true
+%%graceslurs false
+X:1
+T:The 51st Highland Division at Wadi Akarit
+R:March
+Z:Transcribed 16 September, 2016 by Stephen Beitzel
+C:W. MacDonald, Arr. STPB
+M:2/4
+L:1/8
+K:D
+[|: a/2>g/2 | {fg}fa {Gdc}d>c | {gBd}B{Gdc}d {g}A>{d}B | {g}A{Gdc}d {g}fA | {fg}f2 {g}ea/2>g/2 |
+{fg}fa {Gdc}d>c | {gBd}B{Gdc}d {g}A>{d}B | {g}A{d}c {gf}gc | {gef}e2 {Gdc}d :|]
+[|: {gcd}c/2>B/2 | {g}A{Gdc}d {gdG}df | {ag}a>A {gcd}ce | {gf}g>e {gcd}c{e}A | {gf}g>e {gcd}ce |
+{g}A{Gdc}d {gdG}df | {ag}a>A {gcd}ce | {g}A{d}c {gf}gc | {gef}e2 {Gdc}d :|]
+[|: {g}f/2>g/2 | {ag}a>g {fg}fd | {gf}g>e {gcd}c{e}A | {gf}g>e {gcd}ce | {gef}e>d {gcd}c{e}A |
+{ag}a>g {fg}fd | {gf}g>e {gcd}ce | {g}A{d}c {gf}gc | {gef}e2 {Gdc}d :|]
+[|: {g}c/2>B/2 | {g}A{Gdc}d {g}d/2>c/2{g}d/2<f/2 | {g}A{Gdc}d {g}f{ag}a | A{d}c {g}c/2<e/2{g}c/2<e | {g}A{d}c {gef}ef |
+{g}A{Gdc}d {g}d/2>c/2{g}d/2<f/2 | {g}A{Gdc}d {g}f{ag}a | A{d}c {gf}gc | {gef}e2 {Gdc}d :|]
+%%newpage
+X:2
+T:O'er the Bows to Ballindalloch
+R:Strathspey
+C:Traditional, Arr. STPB
+M:4/4
+L:1/8
+K:D
+[|: a2 {GdG}a>f {gef}e>d {g}e<f | a2 {GdG}a>f {gef}e>d {gBG}B2 | a2 {GdG}a>f {gef}e>d {g}e<f | {g}A>B {Gdc}d>f {g}B<d {g}A2 :|]
+[|: {g}A>d {gfg}f>d {gef}e>d {gfg}f>d | {g}A>d {gfg}f>d {gef}e>d {gBG}B2 |1 {g}A>d {gfg}f>d {gef}e>d {gfg}f>d | {g}A>B {Gdc}d>f {g}B<d {g}A2 :|]
+|2 a2 {GdG}a>f {gef}e>d {g}e<f | {g}A>B {Gdc}d>f {g}B<d {g}A2 |]
+X:3
+T:Colonel MacLeod
+R:Reel
+C:Traditional, Arr. STPB
+M:4/4
+K:D
+L:1/8
+[|: {d}c/2 | {g}e>f{gef}e>c {ag}a2 c>d | {g}e>f{gef}e>c {g}f>B{G}B>c | {g}e>f{gef}e>c {ag}a2 e>d |1 {g}c<e {g}B>d {g}c>A{e}A3/2 :|2 {g}c<e {g}B>d {g}c>{d}A{e}A>f |]
+[|: {g}e<ag<a {fg}f2 {g}e>d | {g}c<ag<a {fg}f>B{G}B>f |1 {g}e<ag<a {fg}f2 {g}e>d | {g}c<e {g}B>d {g}c>{d}A{e}A>f :|2 {g}e<ag<a f<ae<a | c<aB<a c>{d}A{e}A>z |]
