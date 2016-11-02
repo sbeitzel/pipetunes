@@ -1,0 +1,23 @@
+%%straightflags false
+%%flatbeams true
+%%titleformat T0, R-1 C1
+%%graceslurs false
+%%footer "STPB					2016.07.07"
+X:1
+T:Duncan McInnes
+R:March
+Z:Transcribed 6 July, 2016 by Stephen Beitzel
+C:PM P.R. Macleod
+M:2/4
+L:1/8
+K:D
+[|: e | {g}A>B {GdG}c{Gdc}d | {g}e>f {gcd}c{e}A | {gcd}ce {g}A{d}c | {gef}e>d {gBd}B{e}G |
+| {g}A>B {GdG}c{Gdc}d | {g}e>f {gcd}ce | {Gdc}d{e}G {gef}e>d | {gBd}B{e}A {GAG}A :|]
+[|: B | {G}A>a {g}ae | {gf}g>a {f}ge | {gcd}c{e}A {gcd}c{gf}g | {ef}e>d {gBd}B{e}G |
+|1 {g}A>a {g}ae | {gf}g>a {f}ge | {Gdc}d{e}G {gef}e>d | {gBd}B{e}A {GAG}A :|]
+|2 {g}A>B {GdG}c{Gdc}d | {g}e>f {gcd}ce | {Gdc}d{e}G {gef}e>d | {gBd}B{e}A {GAG}A |]
+[|: {g}e/2>d/2 |{gde}d<c {g}A{d}c | {g}e>f {gcd}c{e}A | {gef}e2 {g}A{Gdc}d | {gcd}c2 {gBd}B{e}G |
+| {gde}d<c {g}A{d}c | {g}e>f {gcd}ce | {Gdc}d{e}G {gef}e>d | {gBd}B{e}A {GAG}A :|]
+[|: {g}c/2>d/2 | {gef}ec {ag}a>g | {fg}f>e {gcd}c{e}A | {gef}e2 {g}A{Gdc}d | {gcd}c2 {gBd}B{e}G |
+|1 {gef}ec {ag}a>g | {fg}f>e {gcd}ce | {Gdc}d{e}G {gef}e>d | {gBd}B{e}A {GAG}A :|]
+|2 {gde}d<c {g}A{d}c | {g}e>f {gcd}ce | {Gdc}d{e}G {gef}e>d | {gBd}B{e}A {GAG}A |]

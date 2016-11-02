@@ -1,0 +1,26 @@
+%%titleformat T0, R-1 C1
+%%footer "SB					2016.10.27"
+%%straightflags false
+%%flatbeams true
+%%graceslurs false
+X:1
+T:An Cota Ruadh
+R:Strathspey
+Z:Transcribed 9 October, 2016 by Stephen Beitzel
+C:Trad.
+M:C
+L:1/8
+K:D
+[|: d | {gBd}B>A {g}B<d {gef}e2 {g}e<g | {Gd}G2 {gBd}B>A {g}G2 {gGd}G>d | {gBd}B>A {g}B<d {gef}e2 {g}e<g | {ag}a>e {gf}g>B {g}A2 {GdGe}A :|]
+[|: e | {ag}a>e {gf}g>f {gef}e>d {g}e<g | {Gd}G2 {gBd}B>A {g}G2 {gGd}G>d | {ag}a>e {gf}g>f {gef}e>d {g}e<g | {ag}a>e {gf}g>B {g}A2 {GdGe}A :|]
+X:2
+T:Megan's Request
+R:Reel
+C:Trad., Arranged by Abraham McCarty
+M:C
+L:1/8
+K:D
+Z:Transcribed 19 October, 2016 by Stephen Beitzel
+[|: {g}eA{d}Ae {gAGAG}A2 {g}eA | {g}GgdB {g}de{g}e{A}e | {g}eA{d}Ae {gAGAG}A2 {g}eA | {g}GgdB {g}BA {gAGAG}A2 :|]
+[|: {g}Gd{G}dG {g}d{G}d{g}Gd | {g}eG{g}dB {g}de{g}e{A}e | {g}Gd{G}dG {g}d{G}d{g}Gd |1 {g}eG{g}dB {g}BA {gAGAG}A2 :|]
+|2 {g}e2 |]
