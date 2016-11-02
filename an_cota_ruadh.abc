@@ -1,5 +1,5 @@
 %%titleformat T0, R-1 C1
-%%footer "SB					2016.10.27"
+%%footer "SB					2016.11.2"
 %%straightflags false
 %%flatbeams true
 %%graceslurs false
@@ -7,12 +7,13 @@ X:1
 T:An Cota Ruadh
 R:Strathspey
 Z:Transcribed 9 October, 2016 by Stephen Beitzel
-C:Trad.
+C:Trad., Arranged by Adam Blaine
 M:C
 L:1/8
 K:D
-[|: d | {gBd}B>A {g}B<d {gef}e2 {g}e<g | {Gd}G2 {gBd}B>A {g}G2 {gGd}G>d | {gBd}B>A {g}B<d {gef}e2 {g}e<g | {ag}a>e {gf}g>B {g}A2 {GdGe}A :|]
-[|: e | {ag}a>e {gf}g>f {gef}e>d {g}e<g | {Gd}G2 {gBd}B>A {g}G2 {gGd}G>d | {ag}a>e {gf}g>f {gef}e>d {g}e<g | {ag}a>e {gf}g>B {g}A2 {GdGe}A :|]
+[|: d | {g}B>A {g}B<d {gef}e2 {g}e<g | {Gd}G2 {g}B>A {g}G2 {gGd}G>d | {g}B>A {g}B<d {gef}e2 {g}e<g | {ag}a>e {gf}g>B {g}A2 {GdGe}A :|]
+| e | {ag}a>e {gf}g>f {g}e>d {g}e<g | {Gd}G2 {g}B>A {g}G2 {gGd}G>e | {ag}a>e {gf}g>f {g}e>d {g}e<g | {ag}a>e {gf}g>B {g}A2 {GdGe}A>e |
+| {ag}a>e {gf}g>f {g}e>d {g}e<g | {Gd}G2 {g}B>A {g}G2 {gGd}G>d | {g}B>A {g}B<d {gef}e2 {g}e<g | {ag}a>e {gf}g>B {g}A4 |
 X:2
 T:Megan's Request
 R:Reel
