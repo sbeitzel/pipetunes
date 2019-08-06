@@ -1,17 +1,31 @@
 %%titleformat T0, R-1 C1
-%%footer "SB					2016.11.2"
+%%footer "SVPB					2017.11.27"
 %%straightflags false
 %%flatbeams true
 %%graceslurs false
 X:1
 T:Out of the Air
 R:Jig
-Z:Transcribed 14 November, 2016 by Stephen Beitzel
+Z:Transcribed 27 November, 2017 by Stephen Beitzel
 C:Murray Blair
 M:6/8
 L:1/8
 K:D
-[|: {g}A2 e {g}edB | {g}de{A}e {g}edB | {g}Gd{G}d {g}dBd | {g}edB {g}deg |
-| A2 e {g}edB | {g}de{A}e {g}edB | {g}GdB {g}de{A}e | {g}edB {G}A2 e :|]
-| {ag}a2 e {g}edB | {g}e{A}e {g}edB | {g}Gd{G}d {g}dBd | {g}edB {g}deg |
-| {ag}a2 e {g}edB | {g}de{A}e {g}edB | {g}GdB {g}de{A}e | {g}edB {G}A2 |
+{g}A2 e {g}edB | {g}de{A}e {g}edB | {g}Gd{G}d {g}dBd | {g}edB {g}deg |
+{aAGAG}A2 e {g}edB | {g}de{A}e {g}edB | {g}GdB {g}de{A}e | {g}edB {G}A2 e |
+{gAGAG}A2 e {g}edB | {g}de{A}e {g}edB | {g}Gd{G}d {g}dBd | {g}edB {g}deg |
+{aAGAG}A2 e {g}edB | {g}de{A}e {g}edB | {g}GdB {g}de{A}e | {g}edB {G}A2 e |
+[ {ag}a2 e {g}edB | {g}e{A}e {g}edB | {g}Gd{G}d {g}dBd | {g}edB {g}deg |
+ {a}A2 e {g}edB | {g}de{A}e {g}edB | {g}GdB {g}de{A}e | {g}edB {G}A3 |]
+X:2
+T:The Raven
+C:Trad.
+R:Jig
+M:6/8
+L:1/8
+Z:Transcribed 27 November, 2017 by Stephen Beitzel
+K:D
+[| {g}B{d}B{e}B {g}f2 a- | age {g}f3 | {g}Bf{e}f {g}fed | {g}cde {g}dcA |
+{g}B{d}B{e}B {g}f2 a- | age {g}f2 g | {ag}a3 {f}g3 | {g}fed {gef}e2 f |]
+[|: {g}Bf{e}f {g}fed | {g}cde {g}dc{d}B | {g}B{d}B{e}B {g}dcd | {g}ede {g}f2 {e}f |
+{g}Bf{e}f {g}fed | {g}cde {g}dcd | {g}f3 {g}edc |1 {Gdc}d3 {gef}e2 f :|2 {g}!fermata!B6 |]

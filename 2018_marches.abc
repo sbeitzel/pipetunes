@@ -1,0 +1,34 @@
+%abc-2.1
+%%titleformat T0, R-1 C1
+%%footer "SVPB					2017.11.27"
+%%straightflags false
+%%flatbeams true
+%%graceslurs false
+X:1
+T:Men of Argyll
+R:March
+Z:Transcribed 18 January 2017 by Stephen Beitzel, setting from RSPBA
+Z:Updated 27 November, 2017 by Stephen Beitzel - grace notes
+C:PM J. McLellan/JHP, Arr. SVPB
+M:2/4
+L:1/8
+K:D
+[|: {g}f/2>e/2 | {Gdc}d{e}B {GdGe}B{Gdc}d/2>e/2 | {g}fa {fg}f{g}e/2>d/2 | {gcd}c{e}A {GAG}A>B | {g}c/2<{d}A/2{g}c/2>d/2 {gef}e{g}f/2>e/2 |
+{Gdc}d{e}c/2>d/2 {gBd}B{Gdc}d/2>e/2 | {g}fa {fg}f{g}d/2>e | {g}f/2>e/2{g}f/2<a/2 {cd}c{e}A | {g}B2 {GdGe}B :|]
+[|: {gf}g | {ag}a{Gdc}d {gfg}f{g}e/2>d/2 | {g}fa {fg}f{g}c/2>d/2 | {gef}e{g}A {gcd}c>d |1 {gef}e/2>c/2{g}A/2>{d}c/2 {gef}e{gf}g |
+{ag}a{Gdc}d {gfg}f{g}e/2>d | {g}fa {fg}f{g}d/2>e/2 | {g}f/2>e/2{g}f/2<a/2 {cd}c>{e}A | {g}B2 {GdGe}B :|]
+|2 {gef}e/2>c/2{g}A/2>{d}c/2 {gef}e{g}f/2>e/2 | {Gdc}d{g}c/2>d/2 {gBd}B{Gdc}d/2>e/2 | {g}fa {fg}f{g}d/2>e/2 | {g}f/2>e/2{g}f/2<a/2 {cd}c{e}A | {g}B2 {GdGe}B |]
+X:2
+T:Greenwood Side
+R:March
+Z:Transcribed 18 January 2017 by Stephen Beitzel, setting from RSPBA
+Z:Updated 27 November, 2017 by Stephen Beitzel - grip to taorluath, grace notes
+C:Traditional, Arr. SVPB
+M:2/4
+L:1/8
+K:D
+[|: f | {g}B/2>{d}B/2{e}B/2>c/2 {gBd}B{G}A | {g}B/2>c/2{g}d/2>e/2 {gfg}f2 | {g}e>f {g}e/2>f/2{gef}e/2>d/2 | {gcd}c{e}A {GAG}Af |
+{g}B/2>{d}B/2{e}B/2>c/2 {gBd}B{G}A | {g}B/2>c/2{g}d/2>e/2 {gfg}f2 | {gef}ea {fg}f{g}e/2>f/2 | {Gdc}d{e}B {GdGe}B :|]
+[|: {Gdc}d/2>e/2 | {gfg}f2 {gBG}Bf | {g}B/2>{d}B/2{e}B/2>c/2 {gfg}f2 | {g}e>f {g}e/2>f/2{gef}e/2>d/2 |1 {gcd}c{e}A {GAG}A{Gdc}d/2e/2 |
+{gfg}f2 {gBG}Bf | {g}B/2>{d}B/2{e}B/2>c/2 {gfg}f2 | {gef}ea {fg}f{g}e/2>f/2 | {Gdc}d{e}B {GdGe}B :|]
+|2 {gcd}c{e}A {GAG}A f | {g}B/2>{d}B/2{e}B/2>c/2 {gBd}B{G}A | {g}B/2>c/2{g}d/2>e/2 {gfg}f2 | {gef}ea {fg}f{g}e/2>f/2 | {Gdc}d{e}B {GdGe}B |]

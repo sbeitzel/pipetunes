@@ -1,0 +1,16 @@
+%abc-2.1
+%%straightflags false
+%%flatbeams true
+%%graceslurs false
+%%titleformat T0, R-1 C1
+X:1
+T:Scots Wha Hae
+C:Robert Burns
+R:Slow Air
+M:C
+L:1/8
+K:D
+[|: {g}A>B {g}A>G {g}A>B {Gdc}d2 | {g}B>c {g}B>A {g}B>c {Gdc}d>e |
+{g}f>a e>f {Gdc}d>e {g}f>e |1 {g}d>B {g}B>{G}A {g}A4 :|2 {g}d>B {g}B>{G}A {g}A3 e |]
+[|: {g}f>{e}f {g}f>e {g}f>g a>f | {g}e>{A}e {g}e>d {g}e>f {gf}g2 |
+a>f {g}e>f {Gdc}d>e {g}f>e |1 {g}d>B {g}B>{G}A {g}A3 e :|2 {g}d>B {g}B>{G}A {g}A4 |]

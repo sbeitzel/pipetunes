@@ -1,0 +1,18 @@
+%abc-2.1
+%%titleformat T0, R-1 C1
+%%footer "SVPB					2017.11.27"
+%%straightflags false
+%%flatbeams true
+%%graceslurs false
+X:1
+T:Out of the Air
+R:Jig
+Z:Transcribed 27 November, 2017 by Stephen Beitzel
+C:Murray Blair
+M:6/8
+L:1/8
+K:D
+|: [1 {g}A2 ] [2{gAGAG}A2 ] e {g}edB | {g}de{A}e {g}edB | {g}Gd{G}d {g}dBd | {g}edB {g}deg |
+{AGAG}A2 e {g}edB | {g}de{A}e {g}edB | {g}GdB {g}de{A}e | {g}edB {G}A2 e :|
+[| {ag}a2 e {g}edB | {g}de{A}e {g}edB | {g}Gd{G}d {g}dBd | {g}edB {g}deg |
+ {AGAG}A2 e {g}edB | {g}de{A}e {g}edB | {g}GdB {g}de{A}e | {g}edB {G}A3 |]

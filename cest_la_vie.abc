@@ -1,6 +1,6 @@
 %%straightflags false
 %%flatbeams true
-%%footer "STPB					2017.10.23"
+%%footer "STPB					2017.11.06"
 %%graceslurs false
 %%titleformat T0, R-1 C1
 X:1
@@ -13,9 +13,9 @@ K:D
 Z:Transcribed by Stephen Beitzel
 [| {g}A {Gdc}d/{gf}g/ | {g}f a/{ef}e/- | e- e- | e {g}d/e/ |
 {gfg}f {g}B/{Gdc}d/- | d/e/ {g}A | {GAG}A- A- | A {g}A/4B/4d/ |
-{g}d/>e/ {g}f/{ag}a/- | a {g}a | {e}f {g}e- | e {g}d/e |
+{g}d/>e/ {g}f/{ag}a/- | a {g}a | {e}f {g}e- | e {g}d/e/ |
 {gfg}f {g}B/{Gdc}d/- | d/e/ {g}A | {GAG}A- A- | A-A |]
-[| {g}A/{g}A/4B/4 {g}d/g/4{a}f/4- | f/e {g}d/a/4{ef}e/4- |e-e- | e {g}d/e/ |
+[| {g}A/{g}A/4B/4 {g}d/g/4{a}f/4- | f/e/ {g}d/a/4{ef}e/4- |e-e- | e {g}d/e/ |
 {gfg}f {g}B/{Gdc}d/- | d/e/ {g}A | {GAG}A-A- | A {g}A/4B/4d/ |
 {g}d {G}d | {e}A-A | {ge}f {gfg}f/<e/ | {g}d {g}d/4c/4B/4A/4 |
 {g}B/4c/4d/4{g}d/4 c/4{G}c/4{g}d/4f/4 | {gef}e/4d/4c/4{gde}d/4 c/4{d}A/4{g}A/4{d}B/4 | {g}A/4{d}B/4{G}B/4{g}d/4 B/4d/4{g}e/4{A}e/4 | {g}B {g}d/e/ |

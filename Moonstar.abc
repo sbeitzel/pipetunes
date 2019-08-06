@@ -1,6 +1,6 @@
 %%straightflags false
 %%flatbeams true
-%%footer "STPB					2017.10.18"
+%%footer "STPB					2017.11.03"
 %%graceslurs false
 %%titleformat T0, R-1 C1
 X:1
@@ -9,9 +9,9 @@ C:Charlie Glendinning
 R:March
 M:4/4
 L:1/8
-K:D
 Z:Transcribed by Stephen Beitzel
+K:D
 | A | {Gdc}d>f {ag}ad {gcd}c>f {ag}ac | {g}B>e {gf}gB {G}A2 {gde}dA | {g}B>e {gf}gB {G}Ad {g}fa | {f}g>f {gef}ed {gcd}ca {f}g{a}e |
-| {Gdc}d>{g}f {ag}ad {gcd}c>f {ag}ac | {g}B>e {gf}gB {G}A2 {gde}dA | {g}B>{d}G {e}G{d}B A{GdG}c {gef}e>f | {gf}g{BG}B {ge}f>e {Gdc}d2 {gdG}d2 |
+| {Gdc}d>f {ag}ad {gcd}c>f {ag}ac | {g}B>e {gf}gB {G}A2 {gde}dA | {g}B>{d}G {e}G{d}B A{GdG}c {gef}e>f | {gf}g{BG}B {ge}f>e {Gdc}d2 {gdG}d2 |
 | {g}f>a {g}af {g}ea {ef}ec | {Gdc}d>g {f}gd {g}c<f {gcd}c2 | {g}B>c {gde}dB {g}Ad {g}fa | {f}g>f {gef}ed {gcd}ca {f}g{a}e |
 | {g}f>a {g}af {g}ea {ef}ec | {Gdc}d>g {f}gd {g}c<f {gcd}c2 | {g}B>c {gde}dB A{GdG}c {gef}e>f | {gf}g{BG}B {ge}f>e {Gdc}d2 {gdG}d2 |

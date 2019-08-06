@@ -1,0 +1,24 @@
+%%titleformat T0, R-1 C1
+%%footer "		Generated: $D"
+%%straightflags false
+%%flatbeams true
+%%graceslurs false
+%%dateformat "%e %B %Y"
+%%pagescale 0.85
+X:1
+T:Donald McKillop
+R:Jig
+C:Alexander "Sandy" Hain
+M:6/8
+L:1/8
+K:D
+[|: e | {g}A{d}A{e}A {g}c{d}A{e}A | {g}eA{d}c {g}fe{A}e | {g}A{d}A{e}A {g}c{d}A{e}A | {g}eA{d}c {g}dB{G}B |
+{g}A{d}A{e}A {g}c{d}A{e}A | {g}eA{d}c {g}fe{A}e | ac{G}c {g}Bfe | {g}c{d}A{e}A {GAG}A2 :|]
+[|: e | {ag}a3 {fg}f3 | {g}eA{d}c {g}fe{A}e | {ag}a3 {fg}f3 | {g}eA{d}c {g}dB{G}B |
+[|]1 {ag}a3 {fg}f3 | {g}eA{d}c {g}fe{A}e | ac{G}c {g}Bfe | {g}c{d}A{e}A {GAG}A2 :|]
+[|]2 {g}A{d}A{e}A {g}c{d}A{e}A | {g}eA{d}c {g}fe{A}e | ac{G}c {g}Bfe | {g}c{d}A{e}A {GAG}A2 :|]
+[|: e | {g}A{d}c{e}A {g}eA{d}c | {g}eA{d}c {g}fe{A}e | {g}A{d}c{e}A {g}eA{d}c | {g}eA{d}c {g}dB{G}B |
+{g}A{d}c{e}A {g}eA{d}c | {g}eA{d}c {g}fe{A}e | ac{G}c {g}Bfe | {g}c{d}A{e}A {GAG}A2 :|]
+[|: e | ae{A}e {g}fe{A}e | {g}eA{d}c {g}fe{A}e | ae{A}e {g}fe{A}e | {g}eA{d}c {g}dB{G}B |
+[|]1 ae{A}e {g}fe{A}e | {g}eA{d}c {g}fe{A}e | ac{G}c {g}Bfe | {g}c{d}A{e}A {GAG}A2 :|]
+[|]2 {g}A{d}A{e}A {g}c{d}c{e}c | {g}eA{d}c {g}fe{A}e | ac{G}c {g}Bfe | {g}c{d}A{e}A {GAG}A2 :|]

@@ -1,0 +1,42 @@
+%%titleformat T0, R-1 C1
+%%footer "2018.2.11"
+%%straightflags false
+%%flatbeams true
+%%graceslurs false
+X:1
+T:Londonderry Air
+R:Slow Air
+Z:Transcribed 11 February 2018 by Stephen Beitzel
+C:Trad.
+M:4/4
+L:1/8
+K:D
+e4- eA [|: {d}AB {GdG}c2- cB {GdG}c>f | {gef}ec {gBd}B{G}A {g}A2- A{GAG}A | {g}cd {gef}e2- ef {gef}e>c | {g}A{d}c {gBd}B4- B{G}A |
+{d}AB {GdG}c2- c{g}B {GdG}c>f | {gef}ec {gBd}B{G}A {g}A2- A{GAG}A | {g}AB {GdG}c2- cd {g}c>B | {g}AB {G}A4- Ae |
+{g}fg {ag}a2- ag {a}g>f | {gef}ef {g}ec {G}A2- Ae | {g}fg {ag}a2- ag {a}g>f | {gef}ec {g}B4-Be |
+|1 {g}e{A}e {gcd}c2- cB {g}B>a | fa ec {G}A2- A{GAG}A | {g}AB {GdG}c2- cd {g}c>B | {g}AB {G}A4- A2 :]
+|2 {g}e{A}e {gcd}c2- cB {g}B>a | fa ec {G}A2- A{GAG}A | {g}AB {GdG}cf {g}ec {g}BA | {g}Bc {G}A4-A2 |]
+
+X:2
+T:Amazing Grace
+R:Slow Air
+C:Trad.
+M:3/4
+L:1/8
+K:D
+{G}Ad | {gdG}d4 {g}fe/<d/ | {g}f4 {g}fe | {Gdc}d4 {g}B2 | {G}A4 {g}Ad |
+{gdG}d4 {g}fe/<d/ | {g}f4 {g}ef | {ag}a6 | {g}a4 fa |
+{g}a4 fe/<d/ | {g}f4 {g}fe | {Gdc}d4 {g}B2 | {G}A4 {g}Ad |
+{gdc}d4 {g}fe/<d/ | {g}f4 e2 |1 {Gdc}d6 | {gdG}d4 :|]2 {gef}e6 | {Gdc}d4 |]
+
+X:3
+T:Highland Cathedral
+R:Slow Air
+C:Trad.
+M:4/4
+L:1/8
+K:D
+{Gdc}d3 e/f/ {gef}ed {g}Ad | {gef}e3 f {e}f4 | {GdG}f3 g/a/ {f}gf {g}ed | {gef}e3 f {AGAG}A4 |
+{GdG}B3 c/d/ {c}d{e}A {g}cd | {ag}a3 g {a}f4 | {gef}e3 f/g/ {a}fd {g}Ad | {gef}e3 d {gdc}d4 |
+{gcd}c3 {g}A {gef}e3 c/e/ | {g}f3 {c} {GdG}c3 B | {G}A2 {g}A/B/c {gBd}B4 | {d}c2 {g}c/d/e {gBd}B4 |
+{gcd}c3 {e}A {gef}e3 c/e/ | {g}f3 c {GdG}c3 B | {G}A2 {g}A/B/c {gBd}B3 {G}A | {gAGAG}A8 |
